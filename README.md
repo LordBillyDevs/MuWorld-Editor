@@ -25,7 +25,7 @@ Está escrito en **C# / WinForms sobre .NET 9** y dibuja con **OpenGL propio** (
 | Rol | Persona |
 |---|---|
 | **Autor original** | **Rodrigo Hauche** — diseño y desarrollo del editor (v1.0) |
-| Soporte Season 21, rediseño de interfaz y animaciones | Leonardo |
+| Soporte Season 21, rediseño de interfaz y animaciones | LordBilly |
 
 > El crédito del proyecto original pertenece a **Rodrigo Hauche**. Las modificaciones listadas en el [registro de cambios](#registro-de-cambios) se hicieron sobre su código.
 
