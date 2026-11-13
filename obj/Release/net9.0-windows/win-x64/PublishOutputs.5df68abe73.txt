@@ -1,0 +1,1 @@
+D:\MuServer\Tools\MuWorldEditor\bin\Release\net9.0-windows\win-x64\publish\MuWorldEditor.exe

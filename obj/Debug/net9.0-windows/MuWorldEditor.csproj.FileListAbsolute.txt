@@ -1,0 +1,16 @@
+D:\MuServer\Tools\MuWorldEditor\obj\Debug\net9.0-windows\MuWorldEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\MuServer\Tools\MuWorldEditor\obj\Debug\net9.0-windows\MuWorldEditor.AssemblyInfoInputs.cache
+D:\MuServer\Tools\MuWorldEditor\obj\Debug\net9.0-windows\MuWorldEditor.AssemblyInfo.cs
+D:\MuServer\Tools\MuWorldEditor\obj\Debug\net9.0-windows\MuWorldEditor.csproj.CoreCompileInputs.cache
+D:\MuServer\Tools\MuWorldEditor\bin\Debug\net9.0-windows\MuWorldEditor.exe
+D:\MuServer\Tools\MuWorldEditor\bin\Debug\net9.0-windows\MuWorldEditor.deps.json
+D:\MuServer\Tools\MuWorldEditor\bin\Debug\net9.0-windows\MuWorldEditor.runtimeconfig.json
+D:\MuServer\Tools\MuWorldEditor\bin\Debug\net9.0-windows\MuWorldEditor.dll
+D:\MuServer\Tools\MuWorldEditor\bin\Debug\net9.0-windows\MuWorldEditor.pdb
+D:\MuServer\Tools\MuWorldEditor\obj\Debug\net9.0-windows\MuWorldEditor.dll
+D:\MuServer\Tools\MuWorldEditor\obj\Debug\net9.0-windows\refint\MuWorldEditor.dll
+D:\MuServer\Tools\MuWorldEditor\obj\Debug\net9.0-windows\MuWorldEditor.pdb
+D:\MuServer\Tools\MuWorldEditor\obj\Debug\net9.0-windows\MuWorldEditor.genruntimeconfig.cache
+D:\MuServer\Tools\MuWorldEditor\obj\Debug\net9.0-windows\ref\MuWorldEditor.dll
+D:\MuServer\Tools\MuWorldEditor\bin\Debug\net9.0-windows\ObjectList\World1.csv
+D:\MuServer\Tools\MuWorldEditor\bin\Debug\net9.0-windows\AVISO.txt
