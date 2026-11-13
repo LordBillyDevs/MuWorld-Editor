@@ -29,6 +29,10 @@ Está escrito en **C# / WinForms sobre .NET 9** y dibuja con **OpenGL propio** (
 
 > El crédito del proyecto original pertenece a **Rodrigo Hauche**. Las modificaciones listadas en el [registro de cambios](#registro-de-cambios) se hicieron sobre su código.
 
+![alt text](1.png)
+![alt text](2.png)
+![alt text](3.png)
+
 ---
 
 ## Funciones
@@ -195,16 +199,5 @@ MuWorldEditor/
 - Corregido un cierre al iniciar con MSAA (error 1410, "Esta clase ya existe").
 - Registro de arranque (`inicio.log`) y modo seguro automático.
 - Traducciones al inglés de todos los textos nuevos.
-
----
-
-## Licencia
-
-```text
-(c) 2026 Rodrigo Hauche - Todos los derechos reservados.
-Uso privado, prohibida su redistribucion.
-```
-
-Este proyecto **no** tiene licencia de código abierto. Todos los derechos pertenecen a su autor original, Rodrigo Hauche. Consultá con él antes de copiar, redistribuir o publicar el código o los binarios.
 
 *MU Online es una marca de Webzen Inc. Este proyecto no está afiliado ni respaldado por Webzen.*
